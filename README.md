@@ -30,6 +30,11 @@ This project explores fictional Amazon sales data across three branches using SQ
 - Project PPT  
 - README
 
+## 📁 Dataset
+- File: `Amazon.csv`
+- Note: This is a fictional dataset used for educational purposes.
+
+
 ## 📬 Contact
 - **Author:** Mayank Shukla
 - **Email:** [mayankshukla310@gmail.com](mailto:mayankshukla310@gmail.com) 
